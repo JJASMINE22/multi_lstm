@@ -23,10 +23,10 @@
 由9个单元组成，其中多头注意力LSTM单元3个，LSTM单元6个，两种单元结构如下：
 
 LSTM单元
-![image]()
+![image](https://github.com/JJASMINE22/multi_lstm/blob/master/structure/lstm_cell/lstm_cell.png)
 
 MHA LSTM单元
-![image]()
+![image](https://github.com/JJASMINE22/multi_lstm/blob/master/structure/multihead_att_lstm_cell/multihead_attention_lstm_cell.png)
 
 ## 注意事项
 1. 模型由9个单元组成，共两种类型：LSTM单元与多头注意力LSTM单元
@@ -44,7 +44,7 @@ MHA LSTM单元
 
 ## 预测效果
 9分量的特征1：
-![image]()
+![image](https://github.com/JJASMINE22/multi_lstm/blob/master/predict_images/feature_1.png)
 9分量的特征2：
-![image]()
+![image](https://github.com/JJASMINE22/multi_lstm/blob/master/predict_images/feature_2.png)
 
